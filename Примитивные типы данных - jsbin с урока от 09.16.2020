@@ -1,0 +1,85 @@
+//Примитивные типы данных
+
+/*let num = 10;
+console.log(num);
+console.log(typeof num);
+
+let n = '10';
+console.log(n);
+console.log(typeof n);
+
+//number
+//5, -10, 0, 2.35, -6.1, Infinity, -Infinity, NaN
+
+let n = Infinity;
+console.log(n);
+console.log(typeof n);
+let m = 1 /  0;
+console.log(m);
+
+let q = -1 / 0;
+console.log(q);
+
+let num = 'a';
+console.log(num);
+console.log(typeof num);
+
+//string
+let name = 'Alice';
+console.log(typeof name);
+
+let empty = '';
+console.log(typeof empty);
+console.log(name.length);//5
+console.log(empty.length);//0
+console.log(name[0]);//Каждый символ строки имеет свой индекс
+console.log(name[name.length - 1]);//Обращаемся к последнему символу в строке
+
+// + concatenation (слияние)
+let s1 = 'Happy';
+let s2 = 'New';
+let s3 = 'Year';
+let greet = s1 + ' ' + s2 + ' ' + s3;
+console.log(greet);
+*/
+// let a = '5';
+// let b = '7';
+// let s = a + b;
+// let s1 = b + a;
+// console.log(s, s1);
+
+// console.log("I'm 20 years old");//Один способ
+// console.log('I\'m 20 years old');//другой способ с символом экранирования
+// console.log('My favorite movie is \"Termitanor\"');//символ экранирования
+// // \ символ переноса строки
+// console.log('Five\nlittle\nmonkeys');
+// console.log('*\n**\n***\n****');
+
+// undefined
+// let a;
+// console.log(a);
+
+// let b = undefined;
+// console.log(b);
+// console.log(typeof a, b);
+
+// a = 1;
+// console.log(a);
+// console.log(typeof a);
+
+// //null
+// let address = null;
+// console.log(address);
+// console.log(typeof address);//"object" - официальная ошибка в javascript
+
+//boolean
+
+let a = true;
+let b = false;
+console.log(a);
+let compare = 5 > 2;
+console.log(compare);
+console.log(typeof compare);//
+
+
+
